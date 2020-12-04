@@ -139,27 +139,14 @@ footer {
   padding-bottom: 20px;
 }
 
-.menu-icon {
-  color: white;
-  float: right;
-  font-size: 25px;
-  padding: 21px 0;
-  display: none;
-}
 
 .clear {
   clear: left;
 }
 
 @media all and (max-width: 1000px) {
-  .lesson {
-    width: 50%;
-    margin-bottom: 50px;
-  }
 
-  .lesson-wrapper {
-    height: 990px;
-  }
+
 
   footer {
     text-align: center;
@@ -177,20 +164,11 @@ footer {
 }
 
 @media all and (max-width: 670px) {
-  .header-right {
-    display: none;
-  }
 
-  .menu-icon {
-    display: block;
-  }
+
 
   .top-wrapper .btn {
     width: 100%;
-  }
-
-  .twitter {
-    margin-top: 10px;
   }
 
   .top-wrapper {
@@ -203,14 +181,6 @@ footer {
 
   .top-wrapper p {
     font-size: 14px;
-  }
-
-  .lesson {
-    width: 100%;
-  }
-
-  .lesson-wrapper {
-    height: 1700px;
   }
 
  .contact-form {
