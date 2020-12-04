@@ -140,6 +140,7 @@ footer p {
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
+  border-top: 2px solid #dee7ec;
 }
 
 .clear {
