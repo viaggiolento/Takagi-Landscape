@@ -71,7 +71,6 @@ a {
   opacity: 1;
 }
 
-
 header {
   height: 65px;
   width: 100%;
@@ -87,9 +86,8 @@ header {
 
 .header-left h3 {
   color: white;
+  opacity: 0.7;
 }
-
-
 
 .heading {
   padding-top: 80px;
