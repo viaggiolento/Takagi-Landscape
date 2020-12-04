@@ -26,6 +26,11 @@ header {
   width: 100%;
 }
 
+.header-left {
+  color: white;
+  opacity: 0.7;
+}
+
 .container {
   width: 1170px;
   margin: 0 auto;
