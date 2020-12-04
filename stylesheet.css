@@ -114,6 +114,10 @@ header {
   padding-top: 100px;
 }
 
+.contact-form p {
+  font-size: 15px;
+}
+
 input, textarea {
   width: 400px;
   margin-top: 10px;
