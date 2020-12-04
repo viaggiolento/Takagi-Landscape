@@ -45,16 +45,16 @@ a {
   margin-bottom: 20px;
 }
 
-.signup {
+.information {
   background-color: #239b76;
 }
 
-.facebook {
+.service {
   background-color: #3b5998;
-  margin-right: 10px;
+  margin:0 10px;
 }
 
-.twitter {
+.question {
   background-color: #55acee;
 }
 
