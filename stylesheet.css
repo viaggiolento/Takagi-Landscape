@@ -105,7 +105,7 @@ header {
 }
 
 .section-title {
-  font-size: 29px;
+  font-size: 18px;
   border-bottom: 2px solid #dee7ec;
   padding-bottom: 10px;
   margin-bottom: 50px;
@@ -116,10 +116,10 @@ header {
 }
 
 input, textarea {
-  font-size: 18px;
+  font-size: 15px;
   border: 2px solid #dee7ec;
-  margin-top: 10px;
-  margin-bottom: 30px;
+  margin-top: 5px;
+  margin-bottom: 20px;
   width: 420px;
   height: 70px;
 }
