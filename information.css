@@ -53,6 +53,12 @@ header {
   padding-left: 40px;
 }
 
+.chef-photo {
+  float: right;
+  margin-right: 20px;
+}
+
+
 footer {
   font-size: 12px;
   color: #b3aeb5;
