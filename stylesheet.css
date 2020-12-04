@@ -110,59 +110,22 @@ header {
   margin-bottom: 50px;
 }
 
- .contact-form {
-  padding-top: 10px;
+.contact-form {
+  padding-top: 100px;
 }
 
-
-form{
-  width:460px;
+input, textarea {
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 20px;
+  font-size: 18px;
+  border: 1px solid #dee7ec;
 }
 
-.item{
-  overflow: hidden;
-  margin-bottom: 20px;
-}
-
-.label{
-  float: left;
-  margin-right: 20px;
-  width:140px;
-  padding-left: 10px;
-}
-
-.inputs{
-  float: left;
-  width:300px;
-}
-
-input[type="text"],input[type="email"]{
-  border: solid 1px #aaa;
-  border-radius:5px;
-  padding:10px;
-  font-size: 15px;
-}
-
-textarea{
-  border: solid 1px #aaa;
-  border-radius:5px;
-  padding: 10px;
-  height: 160px;
-  font-size: 15px;
-}
-
-.btn-area {
-  padding-left: 80px;
-}
-
-input[type="submit"]{
-  background: #239b76;
-  border: none;
-  color: white;
-  font-size:17px;
-  font-weight:bold;
-  padding: 10px 20px;
-  margin: 0 5px;
+.contact-submit {
+  background-color: #dee7ec;
+  color: #889eab;
 }
   
 footer p {
