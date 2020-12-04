@@ -285,3 +285,10 @@ input, textarea {
   background-color: #dee7ec;
   color: gray;
 }
+  
+.section-title {
+  font-size: 29px;
+  border-bottom: 2px solid #dee7ec;
+  padding-bottom: 10px;
+  margin-bottom: 50px;
+}
