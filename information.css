@@ -26,7 +26,7 @@ header {
 }
 
 .top-wrapper {
-  background-image: url(435839_s.jpg);
+  background-image: url(https://viaggiolento.github.io/Takagi-Landscape/435839_s.jpg);
   background-size: cover;
   padding: 200px 0 200px 40;
   text-align: left;
@@ -51,7 +51,8 @@ header {
 
 .chef-photo {
   max-width: 25%;
-  float: left;
+  float: right;
+  margin: 0 20px;
 }
 
 .container {
@@ -70,7 +71,6 @@ header {
 .index {
   background-color: #fff5ee;
   color:#696969;
-  text-align:center;
 }
 
 .btn {
@@ -78,7 +78,6 @@ header {
   display: inline-block;
   opacity: 0.7;
   border-radius: 4px;
-  text-align: center;
 }
 
 .btn:hover {
@@ -92,7 +91,7 @@ header {
   margin-bottom: 50px;
 }
 
-footer {
+.footer {
   text-align: center;
 }
 
