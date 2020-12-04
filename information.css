@@ -92,7 +92,9 @@ header {
   margin-bottom: 50px;
 }
 
-
+footer {
+  text-align: center;
+}
 
 @media all and (max-width: 1000px) {
 
