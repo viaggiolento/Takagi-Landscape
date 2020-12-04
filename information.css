@@ -25,6 +25,11 @@ header {
   display: block;
 }
 
+.chef-photo {
+  max-width: 25%;
+  float: left;
+}
+
 .container {
   width: 100%;
   margin: 0 auto;
