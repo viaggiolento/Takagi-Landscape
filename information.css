@@ -32,7 +32,7 @@ header {
 
 .top-wrapper {
   background-image: url(435839_s.jpg);
-  background-size: cover;
+  background-size: 1000;
   padding: 180px 0 100px 0;
   text-align: center;
   opacity: 0.9:
@@ -57,6 +57,7 @@ header {
   float: right;
   margin-right: 20px;
   max-width: 25%;
+  position: relative;
 }
 
 
