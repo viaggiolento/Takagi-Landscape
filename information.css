@@ -25,6 +25,30 @@ header {
   display: block;
 }
 
+.top-wrapper {
+  background-image: url(435839_s.jpg);
+  background-size: cover;
+  padding: 200px 0 200px 40;
+  text-align: left;
+}
+
+.top-wrapper h1 {
+  opacity: 0.7;
+  letter-spacing: 5px;
+  font-size: 45px;
+  font-weight: bold;
+}
+
+.top-wrapper p {
+  opacity: 0.7;
+}
+
+.menu {
+  background-color: #fffaf0;
+  padding: 200px 0 200px 40px;
+  text-align: left;
+}
+
 .chef-photo {
   max-width: 25%;
   float: left;
