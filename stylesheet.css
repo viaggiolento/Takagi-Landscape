@@ -286,7 +286,7 @@ input, textarea {
   color: gray;
 }
   
-.section-title {
+.section-title h3 {
   font-size: 29px;
   border-bottom: 2px solid #dee7ec;
   padding-bottom: 10px;
