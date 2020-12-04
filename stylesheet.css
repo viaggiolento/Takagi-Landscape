@@ -155,24 +155,9 @@ textarea{
   padding-left: 80px;
 }
 
-input[type="submit"]{
-  background:  #239b76;
-  border: none;
-  color: white;
-  font-size:17px;
-  font-weight:bold;
-  padding: 10px 20px;
-  margin: 0 5px;
-}
-
-input[type="reset"]{
-  background: #aaa;
-  border: none;
-  color: white;
-  font-size:17px;
-  font-weight:bold;
-  padding: 10px 20px;
-  margin: 0 5px;
+.submit {
+  background-color: #239b76;
+  color: gray;
 }
   
 footer p {
