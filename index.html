@@ -21,8 +21,8 @@
       <h1>会社の名前</h1>
       <p>モットーとかキャッチコピー<BR>住所　電話番号　受付時間</p>
       <div class="btn-wrapper">
-        <a href="information.html" class="btn information">高木造園とは</a>
-        <a href="service.html" class="btn service">サービス内容</a>
+        <a href="https://viaggiolento.github.io/Takagi-Landscape/information.html" class="btn information">高木造園とは</a>
+        <a href="https://viaggiolento.github.io/Takagi-Landscape/service.html" class="btn service">サービス内容</a>
         <a href="#" class="btn question">よくある質問</a>
       </div>
     </div>
@@ -33,22 +33,32 @@
         <h3 class="section-title">お問い合わせ</h3>
         
         <form>
-          <p>メールアドレス（必須）</p>
-          <input>
-          <p>お問い合わせ内容（必須）</p>
-          <textarea></textarea>
-          <p>※必須項目は必ずご入力ください</p>
-          <input type="submit" value="送信" class="submit">
-        </form>
+          <div class="item">
+          <label class="label">お名前</label>
+          <input class="inputs" type="text" name="name">
+          </div>
+          
+          <div class="item">
+           <label class="label">メールアドレス</label>
+           <input class="inputs" type="email" name="email">
+          </div>
+          <div class="item">
+          <label class="label">お問い合わせ内容</label>
+          <textarea class="inputs"></textarea>
+          </div>
+          
+          <div class="btn-area btn">
+          <input type="reset" value="リセット"> <input type="submit" value="送信">
+          </div>
+          </form>
        </div>
-  </div>
-  
-  
-  <footer>
+    </div>
+    
+    <footer>
     <div class="container">
       <h3>会社の名前</h3>
       <p>住所電話番号受付時間帯</p>
     </div>
-  </footer>
+    </footer>
 </body>
 </html>
