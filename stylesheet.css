@@ -81,10 +81,11 @@ header {
   z-index: 10;
 }
 
-
-
 .header-left {
   float: left;
+}
+
+.header-left h3 {
   color: white;
 }
 
