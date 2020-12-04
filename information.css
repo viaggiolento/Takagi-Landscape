@@ -36,6 +36,9 @@ header {
   text-align: left;
 }
 
+.private {
+  margin: 100px 0 50px 40px;
+}
 
 .index {
   background-color: #fff5ee;
@@ -57,7 +60,7 @@ header {
 
 .section-title {
   font-size: 29px;
-  border-bottom: 2px solid #dee7ec;
+  border-bottom: 3px solid #dee7ec;
   padding-bottom: 10px;
   margin-bottom: 50px;
 }
