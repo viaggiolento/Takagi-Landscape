@@ -265,7 +265,23 @@ footer {
     height: 1700px;
   }
 
-  .message-wrapper .btn {
-    width: 100%;
-  }
+ .contact-form {
+  padding-top: 100px;
+}
+ .contact-form {
+  padding-top: 100px;
+}
+
+input, textarea {
+  font-size: 18px;
+  border: 2px solid #dee7ec;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  width: 420px;
+  height: 70px;
+}
+
+.submit {
+  background-color: #dee7ec;
+  color: gray;
 }
