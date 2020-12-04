@@ -112,7 +112,7 @@ header {
 }
 
  .contact-form {
-  padding-top: 100px;
+  padding-top: 10px;
 }
 
 input, textarea {
@@ -137,7 +137,6 @@ footer p {
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
-  background-color: #2f5167
 }
 
 
