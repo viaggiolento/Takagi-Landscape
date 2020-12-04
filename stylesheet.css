@@ -155,9 +155,14 @@ textarea{
   padding-left: 80px;
 }
 
-.submit {
-  background-color: #239b76;
-  color: gray;
+input[type="submit"]{
+  background: #e0505c;
+  border: none;
+  color: white;
+  font-size:17px;
+  font-weight:bold;
+  padding: 10px 20px;
+  margin: 0 5px;
 }
   
 footer p {
