@@ -138,8 +138,8 @@ footer p {
 }
 
 footer {
-  padding-top: 30px;
-  padding-bottom: 20px;
+  margin-top: 30px;
+  padding-top: 10px;
   border-top: 2px solid #dee7ec;
 }
 
